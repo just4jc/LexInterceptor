@@ -4,7 +4,7 @@
   "description": "AWS Lex Interceptor to add multiple language suppport and Image handling",
   "dependencies": {
     "aws-sdk": "^2.135.0",
-    "aws-xray-sdk": "^1.1.4",
+    "aws-xray-sdk": "^3.0.0",
     "file-base64": "^1.0.0",
     "fluent-ffmpeg": "^2.1.2",
     "google-translate": "^2.0.5",
